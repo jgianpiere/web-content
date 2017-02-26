@@ -2,6 +2,7 @@
     "name": "jgianpiere/web-content",
     "description": "web Content CI helpers",
     "type": "library",
+    "version": "1.0.0",
     "keywords": ["web", "helpers"],
     "license": "MIT",
      "authors": [
