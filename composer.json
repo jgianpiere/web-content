@@ -1,0 +1,17 @@
+{
+    "name": "jgianpiere/webContent",
+    "description": "web Content CI helpers",
+    "type": "library",
+    "keywords": ["web", "helpers"],
+    "license": "MIT",
+     "authors": [
+        {
+            "name": "Gianpiere Ramos Bernuy",
+            "email": "jgianpiere@gmail.com",
+            "role": "Creator && developer"
+        }
+    ],
+    "require": {
+        "php": "^5.4.3 || ^7.0"
+    }
+}
