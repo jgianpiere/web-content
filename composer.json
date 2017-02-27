@@ -5,9 +5,6 @@
     "version": "1.0.0",
     "keywords": ["web", "helpers"],
     "license": "MIT",
-    "config":{
-        "vendor-dir":"application/statics/"
-    },
      "authors": [
         {
             "name": "Gianpiere Ramos Bernuy",
